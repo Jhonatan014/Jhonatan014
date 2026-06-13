@@ -1,23 +1,7 @@
 # Welcome to Github 👋
 
 
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  jhonatan Dias Correa                                     ║
-║  Sua Profissão • HTML5 • CSS3 • JavaScript                ║
-║                                                           ║
-║  Hello, World! No momento estou desenvolvendo Projetos Em ║          
-║  HTML5, CSS3, e Javascript, para aprimorar minhas         ║
-║  Habilidades em Desenvolvimento Front-End                 ║
-║ 🎓 Estudante de Desenvolvimento Web                       ║
-║  💻 Criando interfaces modernas e responsivas             ║
-║  🚀 Em busca da minha primeira oportunidade na área de   ║
-║  Tecnologia.                                              ║
-║                                                           ║
-║  ● Logged in as user: Jhonatan_014                        ║
-║                                                           ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗ ║ ║ ║ jhonatan Dias Correa ║ ║ Sua Profissão • HTML5 • CSS3 • JavaScript ║ ║ ║ ║ Hello, World! No momento estou desenvolvendo Projetos ║ ║ Em HTML5, CSS3, e Javascript, para aprimorar minhas ║ ║ Habilidades em Desenvolvimento Front-End ║ ║ ║ ║ 🎓 Estudante de Desenvolvimento Web ║ ║ 💻 Criando interfaces modernas e responsivas ║ ║ 🚀 Em busca da minha primeira oportunidade na área de ║ ║ Tecnologia ║ ║ ║ ║ ● Logged in as user: Jhonatan_014 ║ ║ ~/JhonatanRepo [main] ║ ║ ║ ╚═══════════════════════════════════════════════════════════╝
 
 
 🛠️ Tecnologias
