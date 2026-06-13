@@ -1,23 +1,27 @@
-<body>
-  <center>
-<h1 align="center">  Bem Vindo ao meu Perfil  </h1>
-<br>
-<div align="center">
-<li>
- <b>Name:</b>Jhonatan Dias</li>
-<li>
-  <br>
-<p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-</p>
-<br>
-<br>
-<div>
-<div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+# Bem-vindo ao Github 👋
+
+# Jhonatan Dias
+
+No momento Desenvolvo HTML/CSS/JS
+
+## Tecnologias
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+---
+
+## Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/jhonatan-dias-1449063a9/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/Jhonatan014" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="Jhonata.dias.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
