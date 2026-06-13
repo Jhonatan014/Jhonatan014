@@ -4,8 +4,8 @@
 
 No momento estou desenvolvendo projetos com HTML5, CSS3 e JavaScript para aprimorar minhas habilidades em Desenvolvimento Front-End.
 
-🎓 Estudante de Desenvolvimento Web
-💻 Criando interfaces modernas e responsivas
+🎓 Estudante de Desenvolvimento Web<br>
+💻 Criando interfaces modernas e responsivas<br>
 🚀 Em busca da minha primeira oportunidade na área de Tecnologia.
 
 
