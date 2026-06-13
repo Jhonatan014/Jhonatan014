@@ -2,7 +2,12 @@
 
 # Jhonatan Dias
 
-No momento Desenvolvo HTML/CSS/JS
+No momento estou desenvolvendo projetos com HTML5, CSS3 e JavaScript para aprimorar minhas habilidades em Desenvolvimento Front-End.
+
+🎓 Estudante de Desenvolvimento Web
+💻 Criando interfaces modernas e responsivas
+🚀 Em busca da minha primeira oportunidade na área de Tecnologia.
+
 
 ## Tecnologias
 
