@@ -2,7 +2,7 @@
 
 # Jhonatan Dias
 
-No momento estou desenvolvendo projetos com HTML5, CSS3 e JavaScript para aprimorar minhas habilidades em Desenvolvimento Front-End.
+No momento estou desenvolvendo projetos com HTML5, CSS3, JavaScript, Git e Github, TypeScript e API para aprimorar minhas habilidades em Desenvolvimento Front-End.
 
 🎓 Estudante de Desenvolvimento Web<br>
 💻 Criando interfaces modernas e responsivas<br>
